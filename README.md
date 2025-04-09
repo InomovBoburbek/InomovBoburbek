@@ -5,8 +5,8 @@
 <h3 align="center">A passionate Full-Stack Developer & Bot Creator from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <a href="https://t.me/YourTelegramUsername"><img src="https://img.shields.io/badge/Telegram-%40YourTelegram-26A5E4?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-your.email%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/Inomovv_2"><img src="https://img.shields.io/badge/Telegram-%40Inomovv_2-26A5E4?style=for-the-badge&logo=telegram" /></a>
+  <a href="mailto:boburbekinomov21@gmail.com"><img src="https://img.shields.io/badge/Gmail-boburbekinomov21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -67,11 +67,11 @@
 
 ## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/InomovBoburbek/YourCoolBotProject">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=InomovBoburbek&repo=YourCoolBotProject&theme=react" />
+  <a href="https://github.com/InomovBoburbek/SmartTelegramBot">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=InomovBoburbek&repo=SmartTelegramBot&theme=react" />
   </a>
-  <a href="https://github.com/InomovBoburbek/AnotherAwesomeProject">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=InomovBoburbek&repo=AnotherAwesomeProject&theme=react" />
+  <a href="https://github.com/InomovBoburbek/AutoPostScheduler">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=InomovBoburbek&repo=AutoPostScheduler&theme=react" />
   </a>
 </p>
 

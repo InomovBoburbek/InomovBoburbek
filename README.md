@@ -43,7 +43,7 @@
 
 ## 📫 Reach Me At
 - 📧 **Email:** boburbekinomov21@gmail.com  
-- 💬 **Telegram:** [@Inomovv_2](https://t.me/Inomovv_2)
+- 💬 **Telegram:** [@Inomov_2](https://t.me/Inomov_2)
 
 ---
 

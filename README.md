@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full-Stack Developer & Bot Creator from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <a href="https://t.me/Inomovv_2"><img src="https://img.shields.io/badge/Telegram-%40Inomovv_2-26A5E4?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/Inomov_2"><img src="https://img.shields.io/badge/Telegram-%40Inomov_2-26A5E4?style=for-the-badge&logo=telegram" /></a>
   <a href="mailto:boburbekinomov21@gmail.com"><img src="https://img.shields.io/badge/Gmail-boburbekinomov21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
